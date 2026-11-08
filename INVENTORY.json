@@ -1,0 +1,118 @@
+{
+  "schema": 1,
+  "kind": "third-party-corresponding-source",
+  "archive": "neto-third-party-corresponding-source-2026-11-08.tar.gz",
+  "archiveBytes": 5199828,
+  "archiveSha256": "021e99b1c841e07fa38f97aae011de471c6581c60cf38d5547ca2c3a6c2bcd41",
+  "fileCount": 19,
+  "files": [
+    {
+      "path": "CORRESPONDING-SOURCE-README.md",
+      "bytes": 1652,
+      "sha256": "eaaeaa5b3e5f83c323b26fb35991cd54cd559fb779c9250b6cf986e0b6457b7f"
+    },
+    {
+      "path": "corresponding-source/PROVENANCE.md",
+      "bytes": 2729,
+      "sha256": "bd393fb5b2ad8d1303c335b20bd18fee5bf1462ece06a1d65394cb698cf1f271"
+    },
+    {
+      "path": "corresponding-source/payloads.json",
+      "bytes": 10698,
+      "sha256": "73bb874a28576e80d507b5b90cb11e02d522216c444c3e9c234ff73466a954ac"
+    },
+    {
+      "path": "corresponding-source/wdi-simple/SHA256SUMS",
+      "bytes": 279,
+      "sha256": "7336732ca95f7bdca167e47ab2146340b1372ec6a9007b41d1bc71fb6dfa8648"
+    },
+    {
+      "path": "corresponding-source/wdi-simple/libusb-win32-release_1.4.0.0.tar.gz",
+      "bytes": 177209,
+      "sha256": "78a002442e98d2f01c469ac7d01283f9655e257e18c4ad7670d00494b48deb8d"
+    },
+    {
+      "path": "corresponding-source/wdi-simple/libusbK-V3.1.0.0.tar.gz",
+      "bytes": 4457454,
+      "sha256": "4a2a77630229f32c3e89c5e7f38be32375994d9b5475dfc5f20bc3107497ba59"
+    },
+    {
+      "path": "corresponding-source/wdi-simple/libwdi-v1.5.1.tar.gz",
+      "bytes": 289593,
+      "sha256": "a695e93db0977dfdc5c6a99a4ea91b22f9027547d0177b2a0f3075078643c929"
+    },
+    {
+      "path": "platform-tools/NOTICE.txt",
+      "bytes": 1154131,
+      "sha256": "38ec8c6f5b7799c223ffeab1f9e81c2d5fc67b5e56d6424f649630ca1ee1a811"
+    },
+    {
+      "path": "platform-tools/REDIST-NOTE.txt",
+      "bytes": 678,
+      "sha256": "2acf3c90322845639c396be5c7e63241c8dbfccfa3164b779f60a1fc4ed95ab7"
+    },
+    {
+      "path": "usbdk/LICENSE.txt",
+      "bytes": 10142,
+      "sha256": "09e8a9bcec8067104652c168685ab0931e7868f9c8284b66f5ae6edae5f1130b"
+    },
+    {
+      "path": "winusb/COPYING-LGPL.txt",
+      "bytes": 7651,
+      "sha256": "da7eabb7bafdf7d3ae5e9f223aa5bdc1eece45ac569dc21b3b037520b4464768"
+    },
+    {
+      "path": "winusb/README.txt",
+      "bytes": 867,
+      "sha256": "8f2dcdf6e1de12c6f2b1669f1c3ae381d0ab6ec82ba1d335a335e18878e67231"
+    },
+    {
+      "path": "winusb/THIRD-PARTY-NOTICES.txt",
+      "bytes": 2174,
+      "sha256": "16d4616103272e456fb1b339609aa441c5be65b9af0c7dc5ec0ef04a641278ac"
+    },
+    {
+      "path": "winusb/licenses/WDF-1.11-redist-License.rtf",
+      "bytes": 13236,
+      "sha256": "68421cbf5aff522e2660d812220458b475dfee6d2e66363cf66c7144e956529e"
+    },
+    {
+      "path": "winusb/licenses/libusb-win32-AUTHORS.txt",
+      "bytes": 376,
+      "sha256": "52718d277bd2878c1df3c26dd59e0f8fbdaf0de8a9ab9a523f85d753c1f02706"
+    },
+    {
+      "path": "winusb/licenses/libusb-win32-installer_license.txt",
+      "bytes": 43302,
+      "sha256": "1a590bfda657dbf1756cd3caa19accf31bf7fae5490e61417d208757fb79bac0"
+    },
+    {
+      "path": "winusb/licenses/libusbK-AUTHORS.txt",
+      "bytes": 2186,
+      "sha256": "058fbd0223733c26b93dae46d8cef249d4d363623c51c12372ecf93dd5ed2d1b"
+    },
+    {
+      "path": "winusb/licenses/libusbK-LICENSE-bsd.txt",
+      "bytes": 1893,
+      "sha256": "0649d566561ce1a8b0f7521c4c62e046f7ef81cefe0a993c9463a3e3f4a8a328"
+    },
+    {
+      "path": "winusb/licenses/libusbK-LICENSE-gpl3.txt",
+      "bytes": 36580,
+      "sha256": "9d3185458d4fb9ee35279475875d126a53eab7f76372da75b2bb2a1bed662c52"
+    }
+  ],
+  "upstreamTagArchivesByteIdentical": [
+    "libwdi v1.5.1",
+    "libusb-win32 release_1.4.0.0",
+    "libusbK V3.1.0.0"
+  ],
+  "omittedFromSuppliedArchive": [
+    "STAGED-MANIFEST.json (not on the 19-file publication allowlist)"
+  ],
+  "notes": [
+    "Upstream licence texts and the three source tarballs are unchanged.",
+    "Internal paths were removed from NETO-written notes before publication.",
+    "This inventory is not a licence clearance and does not apply one licence to every file."
+  ]
+}
